@@ -1,0 +1,21 @@
+.SecondBlock{
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.high{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;  
+    color: #3A3A3A;
+}
+.craf{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #898989;
+}
